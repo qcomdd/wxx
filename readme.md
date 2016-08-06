@@ -11,4 +11,4 @@ https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1455784134&token=&lang=zh
 
 http://weui.github.io/weui/ 
 
-by [it0512](t.it0512.net)
+by [it0512](http://t.it0512.net)
